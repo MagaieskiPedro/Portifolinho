@@ -1,0 +1,16 @@
+*{
+    background-image: linear-gradient(red,yellow);
+    height: 100%;
+}
+/* .container{
+    background-image: linear-gradient(red, yellow);
+} */
+.container img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 30%;
+    height: 60%;
+}
+
+
